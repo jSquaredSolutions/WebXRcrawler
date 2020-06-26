@@ -1,0 +1,64 @@
+{
+    "guid": "root________",
+    "title": "",
+    "index": 0,
+    "dateAdded": 1586551475443000,
+    "lastModified": 1593118079447000,
+    "id": 1,
+    "typeCode": 2,
+    "type": "text/x-moz-place-container",
+    "root": "placesRoot",
+    "children": [{
+        "guid": "menu________",
+        "title": "menu",
+        "index": 0,
+        "dateAdded": 1586551475443000,
+        "lastModified": 1591477743323000,
+        "id": 2,
+        "typeCode": 2,
+        "type": "text/x-moz-place-container",
+        "root": "bookmarksMenuFolder"
+    }, {
+        "guid": "toolbar_____",
+        "title": "toolbar",
+        "index": 1,
+        "dateAdded": 1586551475443000,
+        "lastModified": 1592681589836000,
+        "id": 3,
+        "typeCode": 2,
+        "type": "text/x-moz-place-container",
+        "root": "toolbarFolder"
+    }, {
+        "guid": "unfiled_____",
+        "title": "unfiled",
+        "index": 3,
+        "dateAdded": 1586551475443000,
+        "lastModified": 1593118079447000,
+        "id": 5,
+        "typeCode": 2,
+        "type": "text/x-moz-place-container",
+        "root": "unfiledBookmarksFolder",
+        "children": []
+    }, {
+        "guid": "mobile______",
+        "title": "mobile",
+        "index": 4,
+        "dateAdded": 1586551475456000,
+        "lastModified": 1586551475578000,
+        "id": 6,
+        "typeCode": 2,
+        "type": "text/x-moz-place-container",
+        "root": "mobileFolder",
+        "children": [{
+            "guid": "_HG2yYWtTIA3",
+            "title": "Hello, WebVR! • A-Frame",
+            "index": 0,
+            "dateAdded": 1592666863703000,
+            "lastModified": 1592681536000000,
+            "id": 72,
+            "typeCode": 1,
+            "type": "text/x-moz-place",
+            "uri": "https://192.168.1.100:8082/demo.html"
+        }]
+    }]
+}

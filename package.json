@@ -1,0 +1,22 @@
+{
+  "name": "webxrcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RemoveDup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jSquaredSolutions/WebXRcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jSquaredSolutions/WebXRcrawler/issues"
+  },
+  "homepage": "https://github.com/jSquaredSolutions/WebXRcrawler#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.7"
+  }
+}
